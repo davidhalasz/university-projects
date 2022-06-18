@@ -22,8 +22,8 @@
 [submodule "java/jaxb-example"]
 	path = java/jaxb-example
 	url = https://github.com/davidhalasz/jaxb-example.git
-[submodule "java/epam-ticket-service-parent"]
-	path = java/epam-ticket-service-parent
+[submodule "java/ticket-service-parent"]
+	path = java/ticket-service-parent
 	url = https://github.com/davidhalasz/ticket-service-parent.git
 [submodule "cplusplus/bhax"]
 	path = cplusplus/bhax
