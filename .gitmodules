@@ -31,3 +31,6 @@
 [submodule "cplusplus/bevprog"]
 	path = cplusplus/bevprog
 	url = https://github.com/davidhalasz/bevprog.git
+[submodule "nodejs/nodejs-beadando"]
+	path = nodejs/nodejs-beadando
+	url = https://github.com/davidhalasz/nodejs-beadando.git
