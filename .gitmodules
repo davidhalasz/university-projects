@@ -1,0 +1,33 @@
+[submodule "java/ip-geolocator"]
+	path = java/ip-geolocator
+	url = https://github.com/davidhalasz/ip-geolocator.git
+[submodule "java/photoshare"]
+	path = java/photoshare
+	url = https://github.com/davidhalasz/photoshare.git
+[submodule "java/sztproj"]
+	path = java/sztproj
+	url = https://github.com/davidhalasz/sztproj.git
+[submodule "java/pti-szt-2021"]
+	path = java/pti-szt-2021
+	url = https://github.com/davidhalasz/pti-szt-2021.git
+[submodule "java/jpa-dao-example"]
+	path = java/jpa-dao-example
+	url = https://github.com/davidhalasz/jpa-dao-example.git
+[submodule "java/jpa-example"]
+	path = java/jpa-example
+	url = https://github.com/davidhalasz/jpa-example.git
+[submodule "java/jdbi-examples"]
+	path = java/jdbi-examples
+	url = https://github.com/davidhalasz/jdbi-examples.git
+[submodule "java/jaxb-example"]
+	path = java/jaxb-example
+	url = https://github.com/davidhalasz/jaxb-example.git
+[submodule "java/epam-ticket-service-parent"]
+	path = java/epam-ticket-service-parent
+	url = https://github.com/davidhalasz/ticket-service-parent.git
+[submodule "cplusplus/bhax"]
+	path = cplusplus/bhax
+	url = https://github.com/davidhalasz/bhax.git
+[submodule "cplusplus/bevprog"]
+	path = cplusplus/bevprog
+	url = https://github.com/davidhalasz/bevprog.git
